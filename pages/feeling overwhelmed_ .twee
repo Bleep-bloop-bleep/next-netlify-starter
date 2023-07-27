@@ -1,0 +1,182 @@
+:: StoryTitle
+feeling overwhelmed? 
+
+
+:: StoryData
+{
+  "ifid": "1A3AD726-D6D4-4624-B751-B86325B281FD",
+  "format": "Harlowe",
+  "format-version": "3.3.6",
+  "start": "start",
+  "zoom": 1
+}
+
+
+:: Affirmations {"position":"600,850","size":"100,100"}
+
+
+
+:: Breathing excercise {"position":"600,725","size":"100,100"}
+
+
+
+:: Check-in {"position":"250,375","size":"100,100"}
+Check - in
+How are you feeling?
+
+[[Realxed and Well]]
+[[Some Discopmfort or Anxiety]]
+[[Overwhealmed ->Overwhelming]]	
+
+
+:: Cold Water {"position":"600,475","size":"100,100"}
+
+
+
+:: Fidget toy {"position":"600,975","size":"100,100"}
+
+
+
+:: Frozen Orange {"position":"725,725","size":"100,100"}
+
+
+
+:: Holding Ice {"position":"725,850","size":"100,100"}
+
+
+
+:: Listen to music {"position":"600,600","size":"100,100"}
+
+
+
+:: Manageable {"position":"475,500","size":"100,100"}
+ok cool. its ok to feel anxiety, it a perfectly n atural state to be in and can sometime be a useful indicatior.  Nice job being in touch with your self!
+
+[[gratitude meditaition]] 
+
+
+:: No, I got this. {"position":"900,300","size":"100,100"}
+How'd that go?
+
+[[Pretty good.  I'm ready for the next quetion]]
+
+[[Still need some assisitance]]
+
+
+:: Overwhelming {"position":"600,225","size":"100,100"}
+Do you want to use your STOP skill in this moment?
+
+[[yeah, sure ->STOP skill]]
+
+[[no]]
+
+[[lets try a diffrent skill]]
+
+
+:: Pretty good.  I'm ready for the next quetion {"position":"1025,500","size":"100,100"}
+
+
+
+:: Pros and Cons list {"position":"725,975","size":"100,100"}
+
+
+
+:: Realxed and Well {"position":"350,500","size":"100,100"}
+Thats great!
+
+[[gratitude meditaition]]
+
+
+:: STOP details {"position":"800,450","size":"100,100"}
+Sure! The "STOP" skill is one of the basic distress tolerance techniques taught in Dialectical Behavior Therapy (DBT). The "STOP" skill is valuable in crisis moments when you might feel overwhelmed by strong emotions or when you have the urge to engage in self-destructive behaviors. By practicing "STOP," you can build emotional regulation skills and learn to navigate difficult situations with more control and effectiveness.
+
+
+The "STOP" skill is a simple and effective way to manage intense emotions and impulsive behaviors when you are in a distressing situation. It's an acronym that stands for the following:
+
+S - Stop: When you notice yourself becoming overwhelmed by emotions or urges to act impulsively, the first step is to stop whatever you are doing. This pause is essential because it gives you a moment to assess the situation and choose a more mindful response.
+
+T - Take a step back: Physically or mentally take a step back from the situation. This step helps create some distance between you and the intense emotions, making it easier to gain perspective and respond more calmly.
+
+O - Observe: Once you've created some space, take a moment to observe and describe the emotions you are experiencing without judgment. This step involves becoming aware of what you are feeling and accepting those emotions as valid.
+
+P - Proceed mindfully: After you have stopped, stepped back, and observed, you are better equipped to make a more mindful decision about how to respond to the situation. Rather than reacting impulsively, you can choose a response that aligns with your long-term goals and values.
+
+
+[[OK, I've use my STOP skill, now what? ->Check-in]] 
+
+
+:: STOP skill {"position":"775,300","size":"100,100"}
+OK, cool.  Reminder your STOP skill consists of the following sequence:
+
+Stop 
+Take a step back
+Observe
+Proceed mindfully
+
+would you like to be guided throught the skill?
+
+[[Can you remind me what this is? ->STOP details]] 
+
+[[No, I got this.]]
+
+
+
+
+:: Some Discopmfort or Anxiety {"position":"400,200","size":"100,100"}
+Is your anxiety or discomfort ...
+
+[[Manageable]]
+
+or
+
+[[Overwhelming]]
+
+
+:: Still need some assisitance {"position":"1025,175","size":"100,100"}
+
+
+
+:: Stress bal {"position":"475,850","size":"100,100"}
+
+
+
+:: Touch Grass {"position":"725,600","size":"100,100"}
+
+
+
+:: gratitude meditaition {"position":"425,650","size":"100,100"}
+
+
+
+:: lets try a diffrent skill {"position":"600,350","size":"100,100"}
+DBT skills provide a way to more easily manage distressing or overwheling emotions. Experament with the skills below to see which are most effective to you in times of anxiety or overwhealm
+
+Which skill would you like:
+
+[[Cold Water]]
+[[Listen to music]]
+[[Touch Grass]]
+[[Breathing excercise]]
+[[Frozen Orange]]
+[[Affirmations]]
+[[Holding Ice]]
+[[Stress bal]]
+[[Fidget toy]]
+[[Pros and Cons list]]
+
+
+:: no {"position":"775,150","size":"100,100"}
+
+
+
+:: start {"position":"100,375","size":"100,100"}
+This personalized interactive flow chart is all about you and your unique needs. If you ever find it challenging to take care of yourself, manage executive tasks, or read your internal signals, this is the perfect tool for you!
+
+The best part is, it's designed to be super friendly and considerate, taking the weight off your shoulders and making decision-making a breeze.
+
+So, why not set aside an hour of "me-time" to work through each step at your own pace? No rushing or skipping required - just follow the directions that resonate with you. Remember, self-care is crucial, and you, my friend, truly deserve this special time for yourself.
+
+Why not give it a try as a part of your daily routine? Starting your day proactively could make a world of difference! You've got this, and I'm here to support you every step of the way!
+
+[[lets do it! ->Check-in]]
+
